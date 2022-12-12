@@ -6,6 +6,8 @@ To catch readers attention digital and print media are using “Clickbait” hea
 
 ### Instructions for use
 
+The code is present inside the [code](code) folder.
+
 The [process](code/process) folder contains the scripts for data preperation to convert the given jsonl files to a dataframe which inturn is converted to CSV file for further use.
 
 The [classical_ml_approach_headline](code/classical_ml_approach_headline.ipynb) notebook has SVM and XGBoost based approach on the headline of the data.
