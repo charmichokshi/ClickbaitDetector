@@ -2,13 +2,13 @@
 
 Is that headline Clickbait? is a Transformer-based News Clickbait Detector. It is a Fall 2022 Course Project of COMP599 Natural Language Understanding with Deep Learning at McGill University.
  
-To catch readers attention digital and print media are using “Clickbait” headlines. To their monetary benefits, they are misleading the population by publishing catchy headlines to get more user engagements and clicks per post. In this project, we will try to find an answer to a fundamental question that if only a new article’s headline is sufficient to successfully classify if it is clickbait or would we also need more context from related body of the article.
+To catch readers' attention digital and print media are using “Clickbait” headlines. To their monetary benefits, they are misleading the population by publishing catchy headlines to get more user engagements and clicks per post. In this project, we will try to find an answer to a fundamental question if only a news article’s headline sufficient to successfully classify if it is clickbait or would we also need more context from the related body of the article?
 
 ### Instructions for use
 
 The code is present inside the [code](code) folder.
 
-The [process](code/process) folder contains the scripts for data preperation to convert the given jsonl files to a dataframe which inturn is converted to CSV file for further use.
+The [process](code/process) folder contains the scripts for data preparation to convert the given jsonl files to a dataframe which in turn is converted to CSV file for further use.
 
 The [classical_ml_approach_headline](code/classical_ml_approach_headline.ipynb) notebook has SVM and XGBoost based approach on the headline of the data.
 
