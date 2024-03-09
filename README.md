@@ -4,6 +4,8 @@ Is that headline Clickbait? is a Transformer-based News Clickbait Detector. It i
  
 To catch readers' attention digital and print media are using “Clickbait” headlines. To their monetary benefits, they are misleading the population by publishing catchy headlines to get more user engagements and clicks per post. In this project, we will try to find an answer to a fundamental question if only a news article’s headline sufficient to successfully classify if it is clickbait or would we also need more context from the related body of the article?
 
+![Clickbait Detector Demo](https://github.com/charmichokshi/ClickbaitDetector/blob/main/demo.png)
+
 ### Instructions for use
 
 The code is present inside the [code](code) folder.
